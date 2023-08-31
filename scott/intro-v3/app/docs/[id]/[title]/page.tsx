@@ -5,3 +5,5 @@ const DocsIdPage = ({ params }: { params: any }) => {
 }
 
 export default DocsIdPage
+
+export const dynamicParams = true
