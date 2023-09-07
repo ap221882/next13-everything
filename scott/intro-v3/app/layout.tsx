@@ -10,7 +10,6 @@ const links = [
 const MarketingLayout = ({ children }: { children: React.ReactElement }) => {
   return (
     <div>
-      <h1>marketing</h1>
       <header>
         <nav>
           <ul className="flex items-center">
