@@ -4,3 +4,5 @@ templates - rerender on route change different from layout, - useful for animati
 
 client components - rendered on server but executed on client -- means check for window etc before using
 --- We can use server components in client components and vice versa but cant pass non-serializable(functions) props between them
+
+PRISMA - npx prisma migrate dev --name init
